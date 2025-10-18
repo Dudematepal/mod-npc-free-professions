@@ -25,3 +25,12 @@ NpcFreeProfessions.Enable = 1
 #
 
 NpcFreeProfessions.GivenCraftLevel = 450
+
+#
+#   NpcFreeProfessions.HideHerbalismSkinningAndMining
+#       Description: Hide Herbalism, Skinning, and Mining as they give low level players way too powerful bonuses (healing, crit, and stamina)
+#       Default:    0 - Disabled, default
+#                   1 - Enabled
+#
+
+NpcFreeProfessions.HideHerbalismSkinningAndMining = 0
