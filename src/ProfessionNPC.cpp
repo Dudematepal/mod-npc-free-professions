@@ -352,7 +352,10 @@ public:
                                 SpellInfo2->Id == SPELL_GRAND_MASTER_FISHING || 
                                 SpellInfo2->Id == SPELL_GRAND_MASTER_MINING || 
                                 SpellInfo2->Id == SPELL_GRAND_MASTER_SKINNING || 
-                                SpellInfo2->Id == SPELL_GRAND_MASTER_HERBALISM
+                                SpellInfo2->Id == SPELL_GRAND_MASTER_HERBALISM ||
+                                SpellInfo2->Id == SPELL_TOUGHNESS_RANK_6 ||
+                                SpellInfo2->Id == SPELL_MASTER_OF_ANATOMY_RANK_6 ||
+                                SpellInfo2->Id == SPELL_LIFEBLOOD_RANK_6
                             )
                                 continue;
 
