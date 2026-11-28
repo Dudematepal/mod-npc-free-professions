@@ -23,7 +23,13 @@ NpcFreeProfessions.Enable = 1
 #                    Artisan = 300
 #                    Master = 375
 #                    Grand Master = 450
-#       Default:    1 - default
+#       Range:      1-80
+#       Default:    1 - NpcFreeProfessions.ApprenticeRankCharacterLevelRequirement
+#                   15 - NpcFreeProfessions.JourneymanRankCharacterLevelRequirement
+#                   30 - NpcFreeProfessions.ExpertRankCharacterLevelRequirement
+#                   45 - NpcFreeProfessions.ArtisanRankCharacterLevelRequirement
+#                   60 - NpcFreeProfessions.MasterRankCharacterLevelRequirement
+#                   70 - NpcFreeProfessions.GrandMasterRankCharacterLevelRequirement
 #
 
 NpcFreeProfessions.ApprenticeRankCharacterLevelRequirement = 1
